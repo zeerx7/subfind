@@ -13,4 +13,17 @@ Discover a large number of subdomains at lightning speed with this subdomain fin
 
 _`Thanks.`_
 
+---
+
+### API Status
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://ohqdsufgojwvanvcyxhf.supabase.co/functions/v1/api/uptime/subdomains-finder-api?format=svg&theme=dark">
+  <img alt="API Uptime"
+       src="https://ohqdsufgojwvanvcyxhf.supabase.co/functions/v1/api/uptime/subdomains-finder-api?format=svg">
+</picture>
+
+---
+
 _open an [issue](https://github.com/zeerx7/subfind/issues/new) if there is something you want to discuss._
